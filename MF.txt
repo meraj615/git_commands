@@ -1,3 +1,4 @@
 "Hello Meraj Fahmeen"
 "This is your second file"
 "This was the assignment by Jithendra Kumar"
+"and i am trying to learn the git commands through this assignment" 
